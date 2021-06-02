@@ -1,0 +1,12 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i  --save-dev nodemon",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
